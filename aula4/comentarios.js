@@ -1,0 +1,5 @@
+//Aqui tem um comentário
+
+/* COMENTARIO DE BLOCO PARA PODER ESCREVER
+ COMENTARIOS GRANDES
+*/
